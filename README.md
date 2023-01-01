@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left">
+    <a href="https://github.com/Yuma0309/curriculum-vitae">
+        <img alt="Curriculum-Vitae URL" src="https://img.shields.io/badge/Curriculum_Vitae-informational">
+    </a>
+</p>
+
 [![](https://raw.githubusercontent.com/Yuma0309/Yuma0309/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Yuma0309/Yuma0309/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
