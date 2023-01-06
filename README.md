@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-作成した成果物です。
+作成したWebアプリ「MeasRec」です。
 
 <p align="left">
     <a href="https://github.com/Yuma0309/MeasRec">
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-![全体画像](./index.jpeg)
+![graph](https://user-images.githubusercontent.com/97374588/210991872-f3c1383d-1537-4273-ac39-ee080f0a3237.gif)
 
 以下のリンクにアクセスすると、Webアプリ「MeasRec」のページに移動します。
 
