@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-作成したWebアプリ「MeasRec」です。
+①作成したWebアプリ「MeasRec」です。
 
 <p align="left">
     <a href="https://github.com/Yuma0309/MeasRec">
@@ -26,7 +26,18 @@ Here are some ideas to get you started:
 以下のリンクにアクセスすると、Webアプリ「MeasRec」のページに移動します。
 
 ・[MeasRec](http://measrec.s239.xrea.com/measrec.s239/)
-<br><br><br>
+<br><br><br><br><br><br>
+
+②作成したWebアプリ「LinkTree」です。
+
+<p align="left">
+    <a href="https://github.com/Yuma0309/LinkTree">
+        <img alt="LinkTree URL" src="https://img.shields.io/badge/LinkTree-informational">
+    </a>
+</p>
+
+![linktree](https://user-images.githubusercontent.com/97374588/218316102-5d1bce90-32d9-4dcb-af0b-2c3e4aeff8ca.gif)
+<br><br><br><br><br><br>
 
 職務経歴書です。
 
