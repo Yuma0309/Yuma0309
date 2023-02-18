@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 </p>
 
 ![linktree](https://user-images.githubusercontent.com/97374588/218316102-5d1bce90-32d9-4dcb-af0b-2c3e4aeff8ca.gif)
+
+以下のリンクにアクセスすると、Webアプリ「LinkTree」のページに移動します。
+
+・[LinkTree](https://yumanakamura.pythonanywhere.com/)
 <br><br><br><br><br><br>
 
 職務経歴書です。
