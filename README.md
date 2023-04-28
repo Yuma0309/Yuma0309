@@ -13,19 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-①作成したWebアプリ「MeasRec」です。
+①作成したWebアプリ「MeasureRecord」です。
 
 <p align="left">
-    <a href="https://github.com/Yuma0309/MeasRec">
-        <img alt="MeasRec URL" src="https://img.shields.io/badge/MeasRec-informational">
+    <a href="https://github.com/Yuma0309/MeasureRecord">
+        <img alt="MeasureRecord URL" src="https://img.shields.io/badge/MeasureRecord-informational">
     </a>
 </p>
 
 ![graph](https://user-images.githubusercontent.com/97374588/210991872-f3c1383d-1537-4273-ac39-ee080f0a3237.gif)
 
-以下のリンクにアクセスすると、Webアプリ「MeasRec」のページに移動します。
+以下のリンクにアクセスすると、Webアプリ「MeasureRecord」のページに移動します。
 
-・[MeasRec](http://measrec.s239.xrea.com/measrec.s239/)
+・[MeasureRecord](http://measrec.s239.xrea.com/measrec.s239/)
 <br><br><br><br><br><br>
 
 ②作成したWebアプリ「LinkTree」です。
@@ -37,10 +37,6 @@ Here are some ideas to get you started:
 </p>
 
 ![linktree](https://user-images.githubusercontent.com/97374588/218316102-5d1bce90-32d9-4dcb-af0b-2c3e4aeff8ca.gif)
-
-以下のリンクにアクセスすると、Webアプリ「LinkTree」のページに移動します。
-
-・[LinkTree](https://yumanakamura.pythonanywhere.com/)
 <br><br><br><br><br><br>
 
 職務経歴書です。
