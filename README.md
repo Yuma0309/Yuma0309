@@ -39,14 +39,5 @@ Here are some ideas to get you started:
 ![linktree](https://user-images.githubusercontent.com/97374588/218316102-5d1bce90-32d9-4dcb-af0b-2c3e4aeff8ca.gif)
 <br><br><br><br><br><br>
 
-職務経歴書です。
-
-<p align="left">
-    <a href="https://github.com/Yuma0309/Curriculum-Vitae">
-        <img alt="Curriculum-Vitae URL" src="https://img.shields.io/badge/Curriculum_Vitae-informational">
-    </a>
-</p>
-<br><br><br>
-
 [![](https://raw.githubusercontent.com/Yuma0309/Yuma0309/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Yuma0309/Yuma0309/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
